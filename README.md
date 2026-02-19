@@ -11,10 +11,10 @@ Machine learning project predicting California housing prices using Linear Regre
 
 ## Tech Used
 
-Python
-Scikit-learn
-Pandas
-NumPy
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
 
 ## How to Run
 
